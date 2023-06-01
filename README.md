@@ -4,6 +4,7 @@ I did a box full of squares that you can color with three colors (black, white, 
 
 ## Live site
 GitHub Pages site: https://it-miez.github.io/Etch-A-Sketch-project/
+</br></br>
 
 ## Technologies used
 **HTML** </br>
