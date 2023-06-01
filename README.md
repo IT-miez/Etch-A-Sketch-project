@@ -11,3 +11,5 @@ I did a box full of squares that you can color with three colors (black, white, 
 I used my skills on **flexboxes** when structuring the site. I used **JavaScript** to **manipulate the DOM-elements based on what color the user chooses and what box-size**.</br>
 In this project I **used my JavaScript-skills**, **and** got to use **flexboxes** again when structuring the website.
 
+## Live site
+GitHub Pages site: https://it-miez.github.io/Etch-A-Sketch-project/
